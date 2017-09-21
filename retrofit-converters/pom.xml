@@ -18,6 +18,7 @@
     <module>gson</module>
     <module>guava</module>
     <module>protobuf</module>
+    <module>protobuf-json</module>
     <module>jackson</module>
     <module>java8</module>
     <module>wire</module>
